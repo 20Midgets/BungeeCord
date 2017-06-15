@@ -40,11 +40,12 @@ Settings:
         msgtoggle:
           - mtoggle
     StaffChat:
-      enabled: false
+      enabled: true
       aliases:
         - sc
         - s
         - schat
+        - a
     Muting:
       enabled: false
       aliases:
@@ -88,7 +89,7 @@ Settings:
     ServerSwitchMessages:
       enabled: false
     AntiSwear:
-      enabled: false
+      enabled: true
       words:
         - fuck
         - kut
